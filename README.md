@@ -5,6 +5,7 @@ Enter how many days back from the current date you would like to check
 ![WebsiteURL](https://github.com/x49QK2S25Jv/PasswordLastSet/blob/master/README/IMAGE1.JPG)
 
 E.g. 365 days ago from today
+
 ![WebsiteURL](https://github.com/x49QK2S25Jv/PasswordLastSet/blob/master/README/IMAGE2.JPG)
 
 
