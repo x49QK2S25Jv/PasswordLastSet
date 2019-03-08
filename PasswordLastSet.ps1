@@ -1,4 +1,5 @@
 #Show accounts where password was last set more than 365 days ago
+Clear-Host
 $UserSetDate = Read-Host -Prompt 'How many days back would you like to search?'
 $CurrentDate = Get-Date -Format g
 $EnteredDate = (Get-Date).AddDays(-$UserSetDate).ToString("dd/MM/yyyy")
